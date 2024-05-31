@@ -1,3 +1,8 @@
+.container{
+    padding-top: 5cm;
+    padding-left: 10cm;
+
+}
 .main{
     padding: 20px;
     font-family: Arial;
@@ -18,14 +23,14 @@ input{
     padding: 12px 20px;
     margin: 8px;
     border: none;
-    border-bottom: 2px solid #764776;
+    border-bottom: 2px solid #000000;
 
 }
 
 input[type=submit]{
     font-family: Arial, Helvetica, sans-serif;
     width: 100%;
-    background-color: #764776;
+    background-color: #000000;
     border:none;
     color: white;
     padding: 16px 32px;
